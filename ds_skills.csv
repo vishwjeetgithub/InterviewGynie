@@ -1,0 +1,106 @@
+Competency outcomes,Assessment criteria
+"1. Understand sampling,  probability theory,  and probability  distributions","Understand and apply different sampling techniques  and ways to avoid bias.
+Understand the concepts of probability, conditional  probability, and the Bayes’ theorem.
+Demonstrate knowledge of distributions such as the normal distribution and binomial distribution."
+"2. Demonstrate  knowledge
+of descriptive  statistical concepts","Identify definitions of central tendency and dispersion  (mean, median, mode, standard deviations).
+Demonstrate knowledge about working with  categorical data vs. numerical data.
+Recognize the difference between descriptive  and inferential statistics"
+3. Demonstrate  knowledge of  inferential statistics,"Demonstrate understanding of the central limit theory  and confidence intervals.
+Demonstrate the ability to develop and test hypothesis.
+Understand inference for comparing means (ANOVA).
+Understand inference for comparing proportions.
+Articulate, and demonstrate knowledge of correlation  and regression.
+Understand how to test and validate  assumptions for regression models.
+Understand the impact of multicollinearity in regression.
+Use a regression model to predict numeric values."
+4. Demonstrate  knowledge of Python  programming skills,"Demonstrate the ability to build Python code using variables,  relational operators, logical operators, loops, and functions.
+Read and write data from csv and json files.
+Use data structures such as lists, tuples, sets,  and dictionaries.
+Demonstrate knowledge of NumPy and SciPy libraries.
+Learn to use Git repositories.
+Demonstrate knowledge of Anaconda, and Jupyter notebooks."
+5. Implement descriptive  and inferential  statistics using Python,"Understand use of histograms and box plots to understand  and visualize data distributions.
+Master descriptive statistics Python code calculating mean,  median, mode, standard deviation, and percentiles;
+and identifying outliers.
+Use Python code to test hypothesis, calculate correlations  and to predict a continuous variable using regression.
+Validate regression assumptions."
+6. Demonstrate ability  to visualize data and  extract insights,"Demonstrate expertise with Python visualization libraries.
+Demonstrate ability to visualize data for statistical analysis:  histograms, box plots.
+Demonstrate ability to visualize data for insight sharing  with nontechnical users."
+7. Demonstrate through  a project the ability to  analyze a dataset and  communicate insights,"Demonstrate the ability to complete a project using all skills  acquired up to this point: data exploration, descriptive and  inferential statistics, and data visualizations.
+Build a report with findings.
+Deliver a presentation sharing insights.
+Demonstrate solid communication skills (written and verbal)."
+8. Demonstrate  understanding of  what is data science  and what data  scientists do,"Articulate what are the benefits of using data science.
+Articulate what a data scientist does and the value  of data scientists to an organization.
+Understand some of the tools and the technology behind  data science (IBM DSX and others).
+Articulate the value of data science in specific use cases."
+9. Demonstrate ability  to characterize a  business problem,"Leverage business acumen to understand how to take  a business problem and put it into quantifiable form.
+Collaborate with cross-functional stakeholders to identify  quantifiable improvements.
+Define key business indicators and target improvement metrics."
+"10. Demonstrate ability  to formulate
+a business problem  as a hypothesis  question","Formulate business problem as a research question  with associated hypotheses.
+Determine what data is needed to test the hypotheses.
+Ensure hypotheses to be tested are aligned  with business value."
+11. Demonstrate use  of methodologies  in the execution of  the analytics cycle,"Demonstrate how to apply the scientific method  to business problems.
+Demonstrate how to apply the CRISP-DM methodology.
+Demonstrate understanding of an experimentation approach  to insight finding and solution building."
+12. Demonstrate through  a project the ability  to plan for the  execution of a project,"Demonstrate the ability to setup a new project and  follow the application of the scientific method
+and the CRISP-DM methodology.
+Build a report explaining the project plan.
+Deliver a presentation sharing the project plan.
+Demonstrate solid communication skills (written and verbal)."
+"13. Demonstrate ability  to identify and collect
+data in  multiple formats","Demonstrate SQL skills for querying databases  and joining tables.
+Demonstrate ability to work with data from multiple  data sources: SQL Data bases, NoSQL Databases.
+Demonstrate ability to work with data in databases,  csv and json files."
+"14. Demonstrate ability  to manipulate,  transform, and  clean data","Demonstrate an understanding of when/why  data transformations are necessary.
+Apply feature selection techniques.
+Demonstrate understanding of techniques to clean data.
+Demonstrate mastery of the pandas library for  data transformation and manipulation.
+Demonstrate expertise with slicing, indexing, sub-setting,  and merging and joining datasets."
+"15. Demonstrate expertise  with techniques to deal  with missing values,  outliers, unbalanced  data, as well as data  normalization","Able to identify in which situations data may need to be scaled.
+Able to select the best way to handle missing values.
+Able to identify outliers and understand options  to handle outliers.
+Able to understand the impact of working  with unbalanced data.
+Able to construct a fully usable dataset."
+16. Demonstrate through  a project the ability  to construct usable  data sets,"Demonstrate the ability to complete a data engineering  project using all skills acquired up to this point: cleaning  and transforming data and building a usable dataset.
+Build a report documenting decisions made on the data.
+Deliver a presentation sharing process and results.
+Demonstrate solid communication skills (written and verbal)."
+"17. Demonstrate  understanding  of linear algebra  principles for
+machine learning","Demonstrate understanding of working with vectors
+Demonstrate understanding of working with matrices
+Understand the application of eigenvectors and eigenvalues"
+18. Demonstrate  understanding of  different modeling  techniques,"Learn how to build models using libraries such as scikit-learn,  and algorithms such as regressions, logistic regressions,  decision trees, boosting, random forest, Support Vector  Machines, association rules, classification, clustering, neural  networks, time series, survival analysis, etc.
+Understand the process for experimentation and testing  of different models on a dataset.
+Demonstrate expertise selecting potential models to test,  based on the available data, data distributions, and the goal  of the project: explaining relationships or prediction.
+Apply feature selection techniques.
+Demonstrate use of principal component analysis."
+19. Demonstrate  understanding of  model validation and  selection techniques,"Demonstrate successful application of model validation  and selection methods.
+Demonstrate use of cross-validation.
+Demonstrate use of model accuracy metrics such as Confusion  Matrix, Gain and Lift Chart, Kolmogorov Smirnov Chart, AUC –  ROC, Gini Coefficient, Concordant – Discordant Ratio, and Root  Mean Squared Error."
+20. Communicate results  translating insight into  business value,"Demonstrate the ability to turn data insight into business value.
+Demonstrate the ability to adapt final deliverables and  presentations based on the audience: data scientists,  or business stakeholders."
+"21. Demonstrate through  a project the ability  to test different  models on a dataset,  validate and select  the best model, and  communicate results","Demonstrate the ability to complete a project using all skills  acquired up to this point: defining a business challenge.
+as a hypothesis, selecting and evaluating different models  on a date set and selecting a final “best” model.
+Build a report with findings and conclusions for a data science  audience and for a business audience.
+Deliver a presentation sharing results for a data science  audience and for a business audience.
+Demonstrate solid communication skills (written and verbal)."
+22. Deploy and monitor  a validated model  in an operational  environment,"Demonstrate how to deploy a model.
+Demonstrate the ability to monitor model performance  and to define thresholds for model re-training.
+Demonstrate how to use a deployed model from  a Python application."
+"23. Demonstrate through  a project the ability  to deploy and use
+a deployed model","23.1 Demonstrate the ability to complete a small project building
+a simple application that will use a machine learning deployed  model to predict results."
+"24. Understand the  concept of big data,  and how big data is  used at organizations","Understand what big data is and how big data  is used at organizations.
+Understand the concepts and major applications of distributed  and cloud computing paradigm.
+Demonstrate knowledge of the big data ecosystems."
+25. Understand the big  data ecosystem and  its major components,"Demonstrate knowledge of how each major component in the  big data ecosystems works (HDFS, YARN, MapReduce, Spark,  Pig, Hive, Flume, Flink, Kafka, etc.).
+Demonstrate hands-on experience with HDFS, MapReduce,  Spark, Pig, Hive."
+"26. Demonstrate through  a project expertise  with big data platforms  (Hadoop, Spark)",26.1 Demonstrate the ability to complete a small project using  the Hadoop and spark frameworks.
+27. Participate as a data  scientist on client  engagements (internal  or external),"Participate as a data scientist in a minimum of 2 projects  with clients (internal or external).
+Demonstrate teamwork abilities, and the ability to manage  project risks, and stakeholder conflict."
+28. Contribute to the  profession by teaching  or mentoring others,"Demonstrate commitment to the profession by writing  publications, and teaching and mentoring others.
+Demonstrate the ability to create reusable assets such  as notebooks, libraries and documentation."
